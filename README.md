@@ -1,6 +1,7 @@
+
 # willio
 
-A new Flutter project.
+Willio - An AI Speech Assistant which assist you using ChatGpt Api . You Can also generate AI Images using Dall-E API. Its Only worked for Android.
 
 ## Getting Started
 
